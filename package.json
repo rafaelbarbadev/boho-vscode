@@ -1,0 +1,21 @@
+{
+  "name": "boho-dark",
+  "displayName": "Boho-dark",
+  "description": "Boho inspired colour theme for VS Code",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.88.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Boho Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Boho Dark-color-theme.json"
+      }
+    ]
+  }
+}
